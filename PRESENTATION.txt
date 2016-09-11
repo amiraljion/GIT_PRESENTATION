@@ -1,0 +1,41 @@
+Introduction ... aujourduit on va presenter un outil qui est utiliser par des millions
+    		 des devlopper , 
+		ils les aide boucoup dans la managenemnt de leur projet  , c'est le
+		 systeme de controle de version,
+		LE git , c'est exactement qui permet aux devloppers et desiners
+		de travailler ensemble sur le meme code source  sans qu' ils devient
+		 fous. et qui donne plusieur binifis qui on va les discutter
+
+ 
+ presentation :  git est un logiciel de gestion de versions décentralisé.
+		 C'est un logiciel libre créé par Linus Torvalds, 
+		auteur du noyau Linux, et distribué selon les termes de la licence 
+		publique générale GNU version 2. En 2016, il s’agit du logiciel 
+		de gestion de versions le plus populaire qui est utilisé par plus
+		 de douze millions de personnes
+
+
+sans git : 	pour bien voir l'utilité de git on va imaginer ensemble la vie 
+		sans git : 
+			- je suis un devlopper web est j ei un client qui demande 
+			un site , bien , j'ai travailler sur le site pandans 
+			une semaine , j'ai envoyée mon travaille aux clent mais 
+			maleuresement .. il n'est pas satisfais , il faux que 
+			je presenter autre chose , c'est le client . j'ai supprimer
+			la version du site et j'ai recommencet de fair une auter chose
+			apres 5 jour de travaille dur il m' appller pour me dir qu'il veux
+			la version il a vu . je laise a vous d' imaginez la situation moral 
+			de devlopper aprés cette apple .
+
+			- un deusiem sinario ; le client alloue un autre devvlopper pour m'aide ,
+			dans le site , mmmm , comment je peu travaille avec lui ,
+			je peu dir que on fair le meme travaile puis on place 
+			nos ecran l un devan l autre , et garde les milleur partie du code ,
+			mais si c'est un grand projet , il sagit de veintene du devlopper ,
+			c'est un probleme.
+			
+			- vous pouvez imaginez plain des probleme similaire qui
+			rendre la vie de devlopper noir.
+
+			
+			
